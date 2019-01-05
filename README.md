@@ -5,7 +5,7 @@ Java 常用知识点汇集，欢迎补充~
 
 # 分类
 
-以下目录按类型划分
+按类型划分目录
 
 ## 时间
 
@@ -16,4 +16,6 @@ Java 常用知识点汇集，欢迎补充~
 ## 文件
 
 [写入文件 JDK7+](https://github.com/vipstone/javabook/blob/master/doc/写入文件JDK7+.md)
+
+[文件下载](https://github.com/vipstone/javabook/blob/master/doc/文件下载.md)
 
