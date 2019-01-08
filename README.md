@@ -19,3 +19,8 @@ Java 常用知识点汇集，欢迎补充~
 
 [文件下载](https://github.com/vipstone/javabook/blob/master/doc/文件下载.md)
 
+## 线程
+
+[线程使用](https://github.com/vipstone/javabook/blob/master/doc/线程使用.md)
+
+线程池使用
