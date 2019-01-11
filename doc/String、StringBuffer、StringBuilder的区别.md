@@ -1,0 +1,7 @@
+# String、StringBuffer、StringBuilder的区别
+
+String是典型的Immutable（不可变）类，被声明为final所有属性也都是final，所有它是不可变的，所有拼加、截取等动作等会产生新的String对象。
+
+StringBuffer是为了解决上面的问题，而诞生的，提供了append方法实现了对字符串的拼加，append方法使用了synchronized实现了线程安全。
+
+StringBuilder是JDK 1.5 新出的特性，作为StringBuffer的性能补充，StringBuffer的append方法使用了synchronized实现了线程的安全，但同时也带来了性能开销，在没有线程安全的情况下可以优先使用StringBuilder。

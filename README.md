@@ -3,7 +3,9 @@ Java常用知识点汇集，欢迎补充。
 
 以下列表，按类型划分目录。
 
+## 字符串
 
+[String、StringBuffer、StringBuilder的区别](https://github.com/vipstone/javabook/blob/master/doc/String、StringBuffer、StringBuilder的区别.md)
 
 ## 时间
 
