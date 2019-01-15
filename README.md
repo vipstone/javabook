@@ -24,3 +24,8 @@ Java常用知识点汇集，欢迎补充。
 [线程使用](https://github.com/vipstone/javabook/blob/master/doc/线程使用.md)
 
 线程池使用
+
+## Java虚拟机（JVM）
+
+[jvm入门指南](https://github.com/vipstone/javabook/blob/master/doc/jvm入门指南.md)
+
