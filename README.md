@@ -27,5 +27,7 @@ Java常用知识点汇集，欢迎补充。
 
 ## Java虚拟机（JVM）
 
-[jvm入门指南](https://github.com/vipstone/javabook/blob/master/doc/jvm入门指南.md)
+[jvm入门指南（一）](https://github.com/vipstone/javabook/blob/master/doc/jvm入门指南.md)
+
+[jvm构成详解（二）](https://github.com/vipstone/javabook/blob/master/doc/jvm构成详解.md)
 
