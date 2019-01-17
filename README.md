@@ -1,7 +1,5 @@
-# 项目介绍
+# 介绍
 Java常用知识点汇集，欢迎补充。
-
-以下列表，按类型划分目录。
 
 ## 字符串
 
@@ -31,3 +29,8 @@ Java常用知识点汇集，欢迎补充。
 
 [jvm构成详解（二）](https://github.com/vipstone/javabook/blob/master/doc/jvm构成详解.md)
 
+
+
+关注作者公众号，了解后续更多精彩内容：
+
+![](http://icdn.apigo.cn/myinfo/gognzhonghao.jpg)
