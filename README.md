@@ -31,6 +31,8 @@ Java常用知识点汇集，欢迎补充。
 
 [（三）垃圾标记与算法详解](https://github.com/vipstone/javabook/blob/master/doc/jvm垃圾标记与算法详解.md)
 
+[（四）jvm垃圾回收的实现算法和执行细节](https://github.com/vipstone/javabook/blob/master/doc/jvm垃圾回收的实现算法和执行细节.md)
+
 
 
 关注作者公众号，了解后续更多精彩内容：
