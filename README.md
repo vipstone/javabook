@@ -33,6 +33,8 @@ Java常用知识点汇集，欢迎补充。
 
 [（四）jvm垃圾回收的实现算法和执行细节](https://github.com/vipstone/javabook/blob/master/doc/jvm垃圾回收的实现算法和执行细节.md)
 
+（五）jvm垃圾回收器的前世今生
+
 
 
 关注作者公众号，了解后续更多精彩内容：
